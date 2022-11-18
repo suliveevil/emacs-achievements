@@ -68,7 +68,7 @@ checkdoc
 edebug
 profile
 format-spec
-cl package
+cl-lib package
 command-switch-alist
 define-derived-mode
 benchmark-run

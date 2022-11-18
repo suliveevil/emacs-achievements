@@ -9,7 +9,7 @@
 
 ;; TODO: easy way to show a random unearned achievement, perhaps on an idle timer
 
-(require 'cl)
+(require 'cl-lib)
 
 (defconst achievements-file
   (expand-file-name ".achievements" user-emacs-directory)
